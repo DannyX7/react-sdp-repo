@@ -1,2 +1,1 @@
-console.log("");
-console.log("Hello git");
+console.log("Danny");
